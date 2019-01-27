@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1536709215 source:/home/billy/Code/C++/numwords/main.cpp
+	<iostream>
+	<string>
+
+1536943724 source:/home/billy/Code/C++/numwords/numwords.cpp
+	"numwords.h"
+
+1536943776 /home/billy/Code/C++/numwords/numwords.h
+

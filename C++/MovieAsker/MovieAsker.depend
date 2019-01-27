@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1535733394 source:/home/billy/Code/C++/MovieAsker/main.cpp
+	<iostream>
+	"Movie.h"
+	<string>
+
+1535731559 /home/billy/Code/C++/MovieAsker/include/Movie.h
+	<string>
+
+1535733034 source:/home/billy/Code/C++/MovieAsker/src/Movie.cpp
+	"Movie.h"
+	<iostream>
+
